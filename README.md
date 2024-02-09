@@ -1,4 +1,4 @@
-# Edge-and-Blob-Detection-from-Scratch-
+# Edge-and-Blob-Detection-from-Scratch
 
 ![OpenCV-Canny-Output](https://github.com/umairnawazz/Edge-and-Blob-Detection-from-Scratch-/assets/50889289/9616171f-bde8-436a-8e74-0962ce0540a5)
 
